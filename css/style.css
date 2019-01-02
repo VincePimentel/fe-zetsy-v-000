@@ -41,7 +41,7 @@ p {
 	font-size: 1em;
 }
 
-header a {
+header a:link {
 	color: #97aba4;
 	text-decoration: none;
 }
