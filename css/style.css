@@ -24,6 +24,10 @@ body {
 
 /* Write all remaining styles here */
 
+a:active {
+	font-color: #1d82c0;
+}
+
 header a {
 	color: #97aba4;
 	text-decoration: none;
@@ -68,5 +72,5 @@ p {
 
 footer p {
 	float: right;
-	font-size: 2em;
+	font-size: 1em;
 }
