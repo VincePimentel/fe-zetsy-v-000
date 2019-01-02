@@ -24,7 +24,7 @@ body {
 
 /* Write all remaining styles here */
 
-a:active {
+a:active, a:visited {
 	font-color: #1d82c0;
 }
 
