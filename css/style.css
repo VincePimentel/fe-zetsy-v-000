@@ -38,6 +38,10 @@ h1 {
 	font-size: 5em;
 }
 
+.featured {
+	width: 100%;
+}
+
 .featured img {
 	border: 10px solid #97aba4;
 }
