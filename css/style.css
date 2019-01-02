@@ -32,3 +32,7 @@ header a {
 header a:hover {
 	color: #6f7e79;
 }
+
+h1 {
+	font-family: "Baskerville", serif;
+}
