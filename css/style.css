@@ -38,6 +38,10 @@ h1 {
 	font-size: 5em;
 }
 
+p {
+	color: #555;
+}
+
 #featured {
 	display: block;
 	width: 100%;
