@@ -35,7 +35,7 @@ header a:hover {
 
 h1 {
 	font-family: "Baskerville", serif;
-	font-size: 10em;
+	font-size: 1em;
 }
 
 h2 {
@@ -55,4 +55,8 @@ p {
 
 #featured img {
 	border: 5px #97aba4 solid;
+}
+
+#press img {
+	border: 5px solid #cbcbcb;
 }
