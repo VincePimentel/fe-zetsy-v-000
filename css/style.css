@@ -65,3 +65,7 @@ p {
 #press img:hover {
 	border: 5px solid #6f7e79;
 }
+
+#press p {
+	float: right;
+}
