@@ -61,3 +61,7 @@ p {
 	border: 5px solid #cbcbcb;
 	padding: 1px;
 }
+
+#press a:hover {
+	border: 5px solid #6f7e79;
+}
