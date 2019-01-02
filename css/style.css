@@ -59,6 +59,14 @@ p {
 	border: 5px #97aba4 solid;
 }
 
+a:active, a:visited {
+	color: #1d82c0;
+}
+
+#featured a {
+
+}
+
 #press img {
 	border: 5px solid #cbcbcb;
 	padding: 1px;
