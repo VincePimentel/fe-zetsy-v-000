@@ -37,3 +37,7 @@ h1 {
 	font-family: "Baskerville", serif;
 	font-size: 5em;
 }
+
+.featured img {
+	border: 5px solid #97aba4;
+}
