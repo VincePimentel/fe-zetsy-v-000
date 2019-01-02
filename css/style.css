@@ -64,8 +64,8 @@ p {
 	text-decoration: none;
 }
 
- a {
-
+#featured a:hover {
+	text-decoration: underline;
 }
 
 #press img {
