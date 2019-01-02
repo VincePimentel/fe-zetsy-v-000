@@ -61,6 +61,7 @@ p {
 
 a:active, a:visited {
 	color: #1d82c0;
+	text-decoration: none;
 }
 
 #featured a {
