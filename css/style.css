@@ -39,6 +39,7 @@ h1 {
 }
 
 .featured {
+	display: block;
 	width: 100%;
 }
 
