@@ -72,6 +72,10 @@ header a:hover {
 	border: 5px solid #6f7e79;
 }
 
+footer {
+	background: #fff;
+}
+
 footer p {
 	float: right;
 	font-size: 0.8em;
