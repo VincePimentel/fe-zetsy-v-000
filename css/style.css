@@ -50,11 +50,6 @@ header a:hover {
 	color: #6f7e79;
 }
 
-#featured {
-	display: block;
-	width: 100%;
-}
-
 #featured img {
 	border: 5px #97aba4 solid;
 }
